@@ -1,8 +1,16 @@
 #!/bin/bash
 ALX
 <<<<<<< HEAD
+<<<<<<< HEAD
 ALX School is so cool!
 =======
 #!/bin/bash
 ALX School
 >>>>>>> update_script
+=======
+#!/bin/bash
+ALX School
+
+ALX School is so cool!
+
+>>>>>>> 2753723e6aa956aa969d71a4c096cb1f9588e138
